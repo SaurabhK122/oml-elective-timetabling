@@ -24,7 +24,15 @@
     "Replacement dates and times are not assigned.",
     "Recent run history is local to the browser and app address."
   ],
-  "hosted_browser_verification": "Pending GitHub sync at this checkpoint.",
+  "hosted_browser_verification": {
+    "via": "Lovable project browser, synced fe68a22",
+    "desktop": "1280x900; all six tabs rendered; no console/page errors",
+    "mobile": "390x844; no page overflow; horizontally scrollable tabs/tables",
+    "live_heuristic": "Default settings completed, shortfall 0, 5 courses asked, 2441.75 credits",
+    "history": "Recent run persisted after reload and restored without starting a worker",
+    "followup": "Mobile selectors expanded to full width after slightly clipped access label was observed.",
+    "public_preview": "Requires Lovable login; project has not been published."
+  },
   "asset_sha256": {
     "public/lab/app.js": "f6d66b631b52ae0286dec62e60ff89e2a381cd6ea11a5697dd00885c39899eb2",
     "public/lab/data/oml_project.json": "d4860e0ae27808e5169898eb832dcb7f77d96dad159757c6e550151de3c912fc",
@@ -37,6 +45,6 @@
     "public/lab/run-history.js": "350275cd6500a4e31393b180af302f9bd5ab8ba5696a64c05e728a172c3d6f26",
     "public/lab/solver-assets/HIGHS_LICENSE.txt": "9f8d8dcf27789ac59c0d7c732d6682f148804a5e99d83e9f207d6c1882b98bfa",
     "public/lab/solver-assets/highs.wasm": "69a85477acde13876c8fe83357959724e795abdfd144af0531f920d41b5f813e",
-    "public/lab/style.css": "2b236c00928571fd190a4b7e81b0e9ccc67077c10739d0410376ff7d5149a61e"
+    "public/lab/style.css": "c0737b1e9e235f383f6e613c672d2190fef4bb99018598277aa84dc2c896368d"
   }
 }
