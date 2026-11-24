@@ -1,23 +1,33 @@
 import { createFileRoute } from "@tanstack/react-router";
 
-// The home route ships no og:image, so serve-time hosting can inject the
-// project's social preview (explicit og:image or latest screenshot).
 export const Route = createFileRoute("/")({
+  head: () => ({
+    meta: [
+      { title: "OML Elective Timetabling" },
+      { name: "description", content: "Elective Timetabling with Limited Faculty Flexibility — project setup in progress." },
+      { property: "og:title", content: "OML Elective Timetabling" },
+      { property: "og:description", content: "Elective Timetabling with Limited Faculty Flexibility." },
+      { property: "og:type", content: "website" },
+      { name: "twitter:card", content: "summary" },
+    ],
+  }),
   component: Index,
 });
 
-// IMPORTANT: Replace this placeholder. See ./README.md for routing conventions.
 function Index() {
   return (
-    <div
-      className="flex min-h-screen items-center justify-center"
-      style={{ backgroundColor: "#fcfbf8" }}
-    >
-      <img
-        data-lovable-blank-page-placeholder="REMOVE_THIS"
-        src="https://cdn.gpteng.co/blank-app-v1.svg"
-        alt="Your app will live here!"
-      />
-    </div>
+    <main className="flex min-h-screen items-center justify-center bg-background px-6 py-16">
+      <div className="w-full max-w-2xl rounded-xl border bg-card p-8 sm:p-12">
+        <h1 className="text-3xl font-semibold tracking-tight text-primary sm:text-4xl">OML Elective Timetabling</h1>
+        <p className="mt-3 text-lg text-accent-foreground">Elective Timetabling with Limited Faculty Flexibility</p>
+        <p className="mt-6 text-muted-foreground">
+          Aim: find the minimum number of courses needing scheduling flexibility while supporting students' elective credit requirements.
+        </p>
+        <div className="mt-8 inline-flex items-center gap-2 rounded-full bg-accent px-4 py-1.5 text-sm font-medium text-accent-foreground">
+          <span className="h-2 w-2 rounded-full bg-accent-foreground" aria-hidden />
+          Project setup in progress
+        </div>
+      </div>
+    </main>
   );
 }
