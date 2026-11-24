@@ -11,7 +11,11 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "check": "tsc --noEmit",
+    "test:ui": "node tests/ui-behavior.cjs",
+    "test:solver": "npm --prefix solver-source run check:all",
+    "test:history": "node tests/history-storage.cjs"
   },
   "overrides": {
     "rolldown": "1.2.1",
@@ -85,6 +89,7 @@
     "eslint-plugin-prettier": "^5.2.6",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
+    "fake-indexeddb": "6.2.4",
     "globals": "^15.15.0",
     "jsdom": "^20.0.3",
     "nitro": "3.0.260603-beta",

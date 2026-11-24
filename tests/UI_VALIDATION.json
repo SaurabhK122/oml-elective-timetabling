@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "saved_scenarios_checked": 48,
+  "checks": [
+    "All 48 headline metrics",
+    "All 48 method-specific faculty move lists",
+    "All 48 student allocation credits",
+    "Student search and shortfall filter",
+    "Course programme search",
+    "CSV exports (filtered and full)",
+    "Source-default solve time",
+    "No-incumbent handling",
+    "Worker error",
+    "Cancel and stale messages",
+    "Cancel during import",
+    "Preserved previous completed result",
+    "Null solver values",
+    "Editable model and heuristic settings",
+    "Unlimited time",
+    "Both-method execution grouping",
+    "Three-run retention",
+    "Fourth-run eviction",
+    "Exact history restoration without recomputation",
+    "History survives app reload",
+    "Storage-failure preservation",
+    "Malformed result handling",
+    "Complete result and table exports",
+    "Brand navigation",
+    "Visible capacity assumption"
+  ],
+  "browser_visual_validation": "Not included in this DOM-level test"
+}

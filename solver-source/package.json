@@ -1,0 +1,27 @@
+{
+  "name": "web_solver",
+  "version": "1.0.0",
+  "description": "Audited browser port of the supplied OML master timetable model and seven-step heuristic",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --import tsx tests.ts",
+    "check": "tsc --ignoreConfig --noEmit --target es2022 --module esnext --moduleResolution bundler --skipLibCheck oml-model.ts oml-solve.ts oml.worker.ts",
+    "test:exhaustive": "node --import tsx exhaustive-tests.ts",
+    "test:worker": "node --experimental-vm-modules worker-vm-check.cjs",
+    "check:all": "npm run check && npm test && npm run test:exhaustive && npm run test:inputs && npm run test:heuristic && npm run test:worker",
+    "build:worker": "esbuild oml.worker.ts --bundle --format=esm --platform=browser --external:node:module --outfile=../public/lab/oml.worker.js",
+    "build:api": "esbuild oml-solve.ts --bundle --format=esm --platform=browser --external:node:module --outfile=../public/lab/oml-api.js",
+    "test:heuristic": "node --import tsx heuristic-tests.ts",
+    "test:inputs": "node --import tsx audit-input-tests.ts",
+    "test:heuristic:full": "node --import tsx heuristic-full-tests.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "highs": "1.16.0",
+    "tsx": "4.23.15",
+    "typescript": "7.0.2"
+  }
+}

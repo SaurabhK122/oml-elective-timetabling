@@ -1,0 +1,3935 @@
+{
+  "randomSamples": [
+    {
+      "seed": 0,
+      "lengths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        17,
+        32,
+        100,
+        416,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        17,
+        32,
+        100,
+        416,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        17,
+        32,
+        100,
+        416
+      ],
+      "indexes": [
+        0,
+        1,
+        0,
+        2,
+        4,
+        7,
+        6,
+        9,
+        30,
+        45,
+        298,
+        0,
+        0,
+        1,
+        1,
+        0,
+        4,
+        8,
+        4,
+        19,
+        12,
+        373,
+        0,
+        1,
+        1,
+        0,
+        2,
+        6,
+        5,
+        6,
+        30,
+        56,
+        266
+      ]
+    },
+    {
+      "seed": 1,
+      "lengths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        17,
+        32,
+        100,
+        416,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        17,
+        32,
+        100,
+        416,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        17,
+        32,
+        100,
+        416
+      ],
+      "indexes": [
+        0,
+        0,
+        1,
+        0,
+        3,
+        7,
+        7,
+        12,
+        13,
+        12,
+        249,
+        0,
+        1,
+        1,
+        0,
+        3,
+        4,
+        3,
+        3,
+        20,
+        3,
+        11,
+        0,
+        0,
+        1,
+        1,
+        3,
+        0,
+        8,
+        7,
+        28,
+        63,
+        283
+      ]
+    },
+    {
+      "seed": 2026,
+      "lengths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        17,
+        32,
+        100,
+        416,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        17,
+        32,
+        100,
+        416,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        17,
+        32,
+        100,
+        416
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        0,
+        1,
+        6,
+        9,
+        15,
+        28,
+        30,
+        1,
+        0,
+        0,
+        1,
+        0,
+        3,
+        0,
+        7,
+        10,
+        13,
+        50,
+        128,
+        0,
+        1,
+        1,
+        0,
+        2,
+        1,
+        8,
+        9,
+        18,
+        58,
+        72
+      ]
+    },
+    {
+      "seed": 4294967297,
+      "lengths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        17,
+        32,
+        100,
+        416,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        17,
+        32,
+        100,
+        416,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        17,
+        32,
+        100,
+        416
+      ],
+      "indexes": [
+        0,
+        1,
+        0,
+        2,
+        4,
+        3,
+        3,
+        4,
+        15,
+        49,
+        218,
+        0,
+        1,
+        1,
+        0,
+        2,
+        6,
+        6,
+        1,
+        6,
+        12,
+        194,
+        0,
+        0,
+        1,
+        3,
+        2,
+        7,
+        1,
+        6,
+        9,
+        82,
+        402
+      ]
+    }
+  ],
+  "provenance": "Unmodified heuristic definitions extracted by AST from the supplied updated master notebook; Python PYTHONHASHSEED=0. Runtime is excluded.",
+  "cases": [
+    {
+      "name": "notebook-A-0",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S1": [
+            "A",
+            "B"
+          ],
+          "S2": [
+            "B",
+            "C"
+          ],
+          "S3": [
+            "A",
+            "B"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 2,
+        "maxCredits": 2,
+        "theta": 0,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S1": [
+            "A"
+          ],
+          "S2": [
+            "B"
+          ],
+          "S3": [
+            "A"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 3,
+        "students_short": 3,
+        "credits": 3
+      }
+    },
+    {
+      "name": "notebook-A-0.5",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S1": [
+            "A",
+            "B"
+          ],
+          "S2": [
+            "B",
+            "C"
+          ],
+          "S3": [
+            "A",
+            "B"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 2,
+        "maxCredits": 2,
+        "theta": 0.5,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S1": [
+            "A",
+            "B"
+          ],
+          "S2": [
+            "B",
+            "C"
+          ],
+          "S3": [
+            "A",
+            "B"
+          ]
+        },
+        "moves": [
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "3"
+          }
+        ],
+        "asked": [
+          "B",
+          "C"
+        ],
+        "short": 0.0,
+        "students_short": 0,
+        "credits": 6
+      }
+    },
+    {
+      "name": "notebook-A-1",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S1": [
+            "A",
+            "B"
+          ],
+          "S2": [
+            "B",
+            "C"
+          ],
+          "S3": [
+            "A",
+            "B"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 2,
+        "maxCredits": 2,
+        "theta": 1,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S1": [
+            "A",
+            "B"
+          ],
+          "S2": [
+            "B",
+            "C"
+          ],
+          "S3": [
+            "A",
+            "B"
+          ]
+        },
+        "moves": [
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "3"
+          }
+        ],
+        "asked": [
+          "B"
+        ],
+        "short": 0.0,
+        "students_short": 0,
+        "credits": 6
+      }
+    },
+    {
+      "name": "notebook-B-external-limit",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          },
+          {
+            "unit_id": "Q",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "Q",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S1": [
+            "A"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 3,
+        "maxCredits": 9,
+        "theta": 0,
+        "version": "with",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S1": [
+            "A",
+            "P"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 1,
+        "students_short": 1,
+        "credits": 2
+      }
+    },
+    {
+      "name": "notebook-C-block",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S1": [
+            "A",
+            "B"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 2,
+        "maxCredits": 2,
+        "theta": 0.5,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S1": [
+            "A",
+            "B"
+          ]
+        },
+        "moves": [
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1"
+          }
+        ],
+        "asked": [
+          "B"
+        ],
+        "short": 0.0,
+        "students_short": 0,
+        "credits": 2
+      }
+    },
+    {
+      "name": "notebook-D-with",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S1": [
+            "A"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 2,
+        "maxCredits": 9,
+        "theta": 0,
+        "version": "with",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S1": [
+            "A",
+            "P"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 0.0,
+        "students_short": 0,
+        "credits": 2
+      }
+    },
+    {
+      "name": "notebook-D-without",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S1": [
+            "A"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 2,
+        "maxCredits": 9,
+        "theta": 0,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S1": [
+            "A"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 1,
+        "students_short": 1,
+        "credits": 1
+      }
+    },
+    {
+      "name": "same-content",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          }
+        ],
+        "groups": {
+          "G": [
+            "A",
+            "B"
+          ]
+        },
+        "students": {
+          "S1": [
+            "A",
+            "B",
+            "C"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 3,
+        "maxCredits": 3,
+        "theta": 0,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S1": [
+            "A",
+            "C"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 1,
+        "students_short": 1,
+        "credits": 2
+      }
+    },
+    {
+      "name": "protected-only-clash",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "block"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S1": [
+            "A",
+            "B"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 2,
+        "maxCredits": 2,
+        "theta": 1,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S1": [
+            "A"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 1,
+        "students_short": 1,
+        "credits": 1
+      }
+    },
+    {
+      "name": "fractional-ceiling",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 0.75,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1.25,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 1.5,
+            "seat_cap": 10,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S1": [
+            "A",
+            "B",
+            "C"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.75,
+        "maxCredits": 2.25,
+        "theta": 0,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S1": [
+            "A",
+            "C"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 0.0,
+        "students_short": 0,
+        "credits": 2.25
+      }
+    },
+    {
+      "name": "scarce-seat-repair",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 1,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S1": [
+            "A",
+            "B"
+          ],
+          "S2": [
+            "A",
+            "C"
+          ],
+          "S3": [
+            "B",
+            "C"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2,
+        "theta": 0,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S1": [
+            "A",
+            "B"
+          ],
+          "S2": [
+            "C"
+          ],
+          "S3": []
+        },
+        "moves": [],
+        "asked": [],
+        "short": 2.0,
+        "students_short": 2,
+        "credits": 3
+      }
+    },
+    {
+      "name": "seeded-capacity-0",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 0.5,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1.25,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 0.75,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "D",
+            "credits": 1.25,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "E",
+            "credits": 1,
+            "seat_cap": 2,
+            "movable": 0,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 1.25,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "block"
+          }
+        ],
+        "groups": {
+          "G": [
+            "A",
+            "B"
+          ]
+        },
+        "students": {
+          "S01": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "S02": [
+            "C",
+            "E"
+          ],
+          "S03": [
+            "C",
+            "D",
+            "E"
+          ],
+          "S04": [
+            "C",
+            "D",
+            "E"
+          ],
+          "S05": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "S06": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "S07": [
+            "A",
+            "B"
+          ],
+          "S08": [
+            "A",
+            "E"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2.5,
+        "theta": 0,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S01": [
+            "C",
+            "D"
+          ],
+          "S02": [
+            "E"
+          ],
+          "S03": [
+            "C",
+            "D"
+          ],
+          "S04": [
+            "D"
+          ],
+          "S05": [],
+          "S06": [
+            "B"
+          ],
+          "S07": [
+            "B"
+          ],
+          "S08": [
+            "E"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 3.25,
+        "students_short": 6,
+        "credits": 9.75
+      }
+    },
+    {
+      "name": "seeded-capacity-1",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 0.5,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 0.75,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 0.75,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "D",
+            "credits": 0.5,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "E",
+            "credits": 0.5,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 0.5,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S01": [
+            "D",
+            "E"
+          ],
+          "S02": [
+            "A",
+            "B",
+            "E"
+          ],
+          "S03": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "S04": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "S05": [
+            "A",
+            "B",
+            "C"
+          ],
+          "S06": [
+            "C",
+            "D",
+            "E"
+          ],
+          "S07": [
+            "A",
+            "B"
+          ],
+          "S08": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2.5,
+        "theta": 0.5,
+        "version": "with",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S01": [
+            "D",
+            "E",
+            "P"
+          ],
+          "S02": [
+            "A",
+            "B",
+            "P"
+          ],
+          "S03": [
+            "A",
+            "D"
+          ],
+          "S04": [
+            "B",
+            "C"
+          ],
+          "S05": [
+            "C",
+            "P"
+          ],
+          "S06": [
+            "C",
+            "D"
+          ],
+          "S07": [
+            "A",
+            "B"
+          ],
+          "S08": [
+            "C",
+            "D"
+          ]
+        },
+        "moves": [
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "4"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "1"
+          }
+        ],
+        "asked": [
+          "B",
+          "D",
+          "P"
+        ],
+        "short": 1.5,
+        "students_short": 5,
+        "credits": 10.75
+      }
+    },
+    {
+      "name": "seeded-capacity-2",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1.25,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 1.25,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "D",
+            "credits": 0.5,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "E",
+            "credits": 0.5,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 1.25,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S01": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "S02": [
+            "C",
+            "D"
+          ],
+          "S03": [
+            "A",
+            "C",
+            "E"
+          ],
+          "S04": [
+            "B",
+            "C"
+          ],
+          "S05": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "S06": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "S07": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "S08": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2.5,
+        "theta": 1,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S01": [
+            "C",
+            "E"
+          ],
+          "S02": [
+            "C",
+            "D"
+          ],
+          "S03": [
+            "C",
+            "E"
+          ],
+          "S04": [
+            "B"
+          ],
+          "S05": [
+            "A"
+          ],
+          "S06": [
+            "A"
+          ],
+          "S07": [
+            "A"
+          ],
+          "S08": [
+            "D"
+          ]
+        },
+        "moves": [
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "4"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "5"
+          }
+        ],
+        "asked": [
+          "C"
+        ],
+        "short": 2.75,
+        "students_short": 5,
+        "credits": 10.0
+      }
+    },
+    {
+      "name": "seeded-capacity-3",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1.25,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 0.5,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "D",
+            "credits": 0.75,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "E",
+            "credits": 0.75,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 0.5,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          }
+        ],
+        "groups": {
+          "G": [
+            "A",
+            "B"
+          ]
+        },
+        "students": {
+          "S01": [
+            "A",
+            "E"
+          ],
+          "S02": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "S03": [
+            "C",
+            "D"
+          ],
+          "S04": [
+            "A",
+            "D",
+            "E"
+          ],
+          "S05": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "S06": [
+            "B",
+            "C",
+            "E"
+          ],
+          "S07": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "S08": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2.5,
+        "theta": 0,
+        "version": "with",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S01": [
+            "A",
+            "P"
+          ],
+          "S02": [
+            "B",
+            "P"
+          ],
+          "S03": [
+            "C",
+            "D"
+          ],
+          "S04": [
+            "A",
+            "P"
+          ],
+          "S05": [
+            "B",
+            "D"
+          ],
+          "S06": [
+            "B"
+          ],
+          "S07": [
+            "B"
+          ],
+          "S08": [
+            "D"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 1.5,
+        "students_short": 4,
+        "credits": 11.25
+      }
+    },
+    {
+      "name": "seeded-capacity-4",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 0.5,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 1,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "D",
+            "credits": 1.25,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "E",
+            "credits": 0.75,
+            "seat_cap": 2,
+            "movable": 0,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 0.5,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "block"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S01": [
+            "B",
+            "D",
+            "E"
+          ],
+          "S02": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "S03": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "S04": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "S05": [
+            "A",
+            "B",
+            "D"
+          ],
+          "S06": [
+            "D",
+            "E"
+          ],
+          "S07": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "S08": [
+            "C",
+            "D",
+            "E"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2.5,
+        "theta": 0.5,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S01": [
+            "D",
+            "E"
+          ],
+          "S02": [
+            "B"
+          ],
+          "S03": [
+            "A",
+            "B"
+          ],
+          "S04": [
+            "A",
+            "C"
+          ],
+          "S05": [
+            "A",
+            "B"
+          ],
+          "S06": [
+            "D",
+            "E"
+          ],
+          "S07": [
+            "B"
+          ],
+          "S08": [
+            "C"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 1.5,
+        "students_short": 3,
+        "credits": 11.5
+      }
+    },
+    {
+      "name": "seeded-capacity-5",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1.25,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 0.75,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 1,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "D",
+            "credits": 0.75,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "E",
+            "credits": 0.5,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 1.25,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S01": [
+            "B",
+            "C",
+            "D"
+          ],
+          "S02": [
+            "A",
+            "D"
+          ],
+          "S03": [
+            "B",
+            "C",
+            "D"
+          ],
+          "S04": [
+            "A",
+            "B",
+            "D"
+          ],
+          "S05": [
+            "A",
+            "E"
+          ],
+          "S06": [
+            "A",
+            "C",
+            "E"
+          ],
+          "S07": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "S08": [
+            "A",
+            "C",
+            "D"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2.5,
+        "theta": 1,
+        "version": "with",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S01": [
+            "B",
+            "D"
+          ],
+          "S02": [
+            "A"
+          ],
+          "S03": [
+            "B"
+          ],
+          "S04": [
+            "A",
+            "B"
+          ],
+          "S05": [
+            "A",
+            "E"
+          ],
+          "S06": [
+            "C",
+            "E"
+          ],
+          "S07": [
+            "P"
+          ],
+          "S08": [
+            "P"
+          ]
+        },
+        "moves": [
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "4"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "7"
+          }
+        ],
+        "asked": [
+          "B",
+          "E"
+        ],
+        "short": 1.5,
+        "students_short": 4,
+        "credits": 11.25
+      }
+    },
+    {
+      "name": "seeded-capacity-6",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1.25,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 0.75,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 0.75,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "D",
+            "credits": 0.5,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "E",
+            "credits": 0.5,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 1,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          }
+        ],
+        "groups": {
+          "G": [
+            "A",
+            "B"
+          ]
+        },
+        "students": {
+          "S01": [
+            "A",
+            "B",
+            "E"
+          ],
+          "S02": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "S03": [
+            "B",
+            "C",
+            "E"
+          ],
+          "S04": [
+            "A",
+            "B",
+            "C"
+          ],
+          "S05": [
+            "A",
+            "B",
+            "E"
+          ],
+          "S06": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "S07": [
+            "A",
+            "C"
+          ],
+          "S08": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2.5,
+        "theta": 0,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S01": [
+            "A",
+            "E"
+          ],
+          "S02": [
+            "A"
+          ],
+          "S03": [
+            "C",
+            "E"
+          ],
+          "S04": [
+            "B"
+          ],
+          "S05": [
+            "A"
+          ],
+          "S06": [
+            "D",
+            "E"
+          ],
+          "S07": [
+            "C"
+          ],
+          "S08": [
+            "B"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 3.5,
+        "students_short": 7,
+        "credits": 8.75
+      }
+    },
+    {
+      "name": "seeded-capacity-7",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 0.5,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1.25,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 1,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "D",
+            "credits": 1.25,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "E",
+            "credits": 0.75,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 0.75,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S01": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "S02": [
+            "A",
+            "C",
+            "D"
+          ],
+          "S03": [
+            "C",
+            "E"
+          ],
+          "S04": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "S05": [
+            "A",
+            "D",
+            "E"
+          ],
+          "S06": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "S07": [
+            "B",
+            "C"
+          ],
+          "S08": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2.5,
+        "theta": 0.5,
+        "version": "with",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S01": [
+            "A",
+            "C"
+          ],
+          "S02": [
+            "C",
+            "D"
+          ],
+          "S03": [
+            "C",
+            "P"
+          ],
+          "S04": [
+            "A",
+            "B"
+          ],
+          "S05": [
+            "E",
+            "P"
+          ],
+          "S06": [
+            "A",
+            "B"
+          ],
+          "S07": [
+            "B",
+            "P"
+          ],
+          "S08": [
+            "B"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 0.25,
+        "students_short": 1,
+        "credits": 13.75
+      }
+    },
+    {
+      "name": "seeded-capacity-8",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 0.75,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1.25,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 0.5,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "D",
+            "credits": 0.75,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "E",
+            "credits": 0.75,
+            "seat_cap": 2,
+            "movable": 0,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 1.25,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S01": [
+            "B",
+            "D",
+            "E"
+          ],
+          "S02": [
+            "C",
+            "D",
+            "E"
+          ],
+          "S03": [
+            "A",
+            "B",
+            "D"
+          ],
+          "S04": [
+            "C",
+            "E"
+          ],
+          "S05": [
+            "D",
+            "E"
+          ],
+          "S06": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "S07": [
+            "D",
+            "E"
+          ],
+          "S08": [
+            "B",
+            "D",
+            "E"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2.5,
+        "theta": 1,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S01": [
+            "B"
+          ],
+          "S02": [
+            "C",
+            "D"
+          ],
+          "S03": [
+            "A",
+            "B"
+          ],
+          "S04": [
+            "C",
+            "E"
+          ],
+          "S05": [
+            "D",
+            "E"
+          ],
+          "S06": [
+            "A",
+            "C"
+          ],
+          "S07": [
+            "D"
+          ],
+          "S08": [
+            "D"
+          ]
+        },
+        "moves": [
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "6"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "7"
+          }
+        ],
+        "asked": [
+          "C"
+        ],
+        "short": 2.5,
+        "students_short": 6,
+        "credits": 10.0
+      }
+    },
+    {
+      "name": "seeded-capacity-9",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 0.75,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 0.75,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 0.75,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "D",
+            "credits": 1.25,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "E",
+            "credits": 1.25,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 0.5,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "2",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          }
+        ],
+        "groups": {
+          "G": [
+            "A",
+            "B"
+          ]
+        },
+        "students": {
+          "S01": [
+            "B",
+            "D"
+          ],
+          "S02": [
+            "B",
+            "C"
+          ],
+          "S03": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "S04": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "S05": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "S06": [
+            "B",
+            "C"
+          ],
+          "S07": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "S08": [
+            "B",
+            "D"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2.5,
+        "theta": 0,
+        "version": "with",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S01": [
+            "D"
+          ],
+          "S02": [
+            "B"
+          ],
+          "S03": [
+            "E",
+            "P"
+          ],
+          "S04": [
+            "E",
+            "P"
+          ],
+          "S05": [
+            "A"
+          ],
+          "S06": [
+            "C"
+          ],
+          "S07": [
+            "A",
+            "C"
+          ],
+          "S08": [
+            "B"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 3.25,
+        "students_short": 5,
+        "credits": 9.25
+      }
+    },
+    {
+      "name": "seeded-capacity-10",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 0.75,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 0.75,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 0.75,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "D",
+            "credits": 1,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "E",
+            "credits": 0.75,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 0.5,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "6",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S01": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "S02": [
+            "A",
+            "D"
+          ],
+          "S03": [
+            "B",
+            "E"
+          ],
+          "S04": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "S05": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "S06": [
+            "B",
+            "C",
+            "D"
+          ],
+          "S07": [
+            "B",
+            "C"
+          ],
+          "S08": [
+            "A",
+            "B",
+            "D"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2.5,
+        "theta": 0.5,
+        "version": "without",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S01": [
+            "A",
+            "E"
+          ],
+          "S02": [
+            "A",
+            "D"
+          ],
+          "S03": [
+            "E"
+          ],
+          "S04": [
+            "E"
+          ],
+          "S05": [
+            "D"
+          ],
+          "S06": [
+            "C"
+          ],
+          "S07": [
+            "B",
+            "C"
+          ],
+          "S08": [
+            "A"
+          ]
+        },
+        "moves": [
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "1"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "6"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "3"
+          }
+        ],
+        "asked": [
+          "B",
+          "D",
+          "E"
+        ],
+        "short": 3.5,
+        "students_short": 5,
+        "credits": 8.75
+      }
+    },
+    {
+      "name": "seeded-capacity-11",
+      "input": {
+        "units": [
+          {
+            "unit_id": "A",
+            "credits": 1,
+            "seat_cap": 4,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "B",
+            "credits": 1,
+            "seat_cap": 3,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "C",
+            "credits": 1.25,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "D",
+            "credits": 0.75,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "E",
+            "credits": 1.25,
+            "seat_cap": 1,
+            "movable": 1,
+            "is_pgpx_or_fabm": 0
+          },
+          {
+            "unit_id": "P",
+            "credits": 1.25,
+            "seat_cap": 2,
+            "movable": 1,
+            "is_pgpx_or_fabm": 1
+          }
+        ],
+        "sessions": [
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "1",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "A",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "B",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "C",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "block"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "D",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "4",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "E",
+            "date": "2026-12-01",
+            "slot": "7",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "3",
+            "session_type": "class"
+          },
+          {
+            "unit_id": "P",
+            "date": "2026-12-01",
+            "slot": "5",
+            "session_type": "class"
+          }
+        ],
+        "groups": {},
+        "students": {
+          "S01": [
+            "A",
+            "C",
+            "E"
+          ],
+          "S02": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "S03": [
+            "B",
+            "D"
+          ],
+          "S04": [
+            "A",
+            "B",
+            "C"
+          ],
+          "S05": [
+            "A",
+            "B"
+          ],
+          "S06": [
+            "B",
+            "C",
+            "E"
+          ],
+          "S07": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "S08": [
+            "A",
+            "C"
+          ]
+        }
+      },
+      "settings": {
+        "floor": 1.5,
+        "maxCredits": 2.5,
+        "theta": 1,
+        "version": "with",
+        "heuristicRounds": 60,
+        "heuristicPatience": 20,
+        "heuristicGroup": 4,
+        "heuristicSeed": 2026
+      },
+      "expected": {
+        "allocation": {
+          "S01": [
+            "A",
+            "C"
+          ],
+          "S02": [
+            "A",
+            "C"
+          ],
+          "S03": [
+            "B",
+            "D"
+          ],
+          "S04": [
+            "A",
+            "B"
+          ],
+          "S05": [
+            "B"
+          ],
+          "S06": [
+            "E",
+            "P"
+          ],
+          "S07": [
+            "P"
+          ],
+          "S08": [
+            "A"
+          ]
+        },
+        "moves": [],
+        "asked": [],
+        "short": 1.25,
+        "students_short": 3,
+        "credits": 14.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "sourceArchive": "OML_project_update.zip",
+  "files": [
+    {
+      "path": "OML_elective_timetabling_master/OML_master.ipynb",
+      "sha256": "ab446c9435e0a3c41f959fef465adcba9f10de35517ffcddd8394e958ddbd356"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/heuristic_floor5_with_theta00.pkl",
+      "sha256": "eee5de11ee12505d5ca710aeaf322c8539503e597a5fe69ae415ff1a0d8cadc4"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/heuristic_floor5_with_theta10.pkl",
+      "sha256": "94fdc82db57a8b3608fa0fe912d3fba4eda0bdd0297b00940aebfb946c0d39db"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/heuristic_floor5_with_theta20.pkl",
+      "sha256": "239eede1f673614077dccfd894ae7df01c85b1346bc4ef2126d943cbd2a77c5f"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/heuristic_floor5_without_theta00.pkl",
+      "sha256": "d1d926df3f5c4b168d54431f54d66356f99fbfc056bada7c6cf0a4358ae079b5"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/heuristic_floor5_without_theta10.pkl",
+      "sha256": "b4b47e23f626d0c29035c6e58568692ade4a331b1073e580700e89e88fcd3be9"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/heuristic_floor5_without_theta20.pkl",
+      "sha256": "ac616f5593c0ac1a297918ddef9d9b99c356370795f7f16e2d2054cf64c2d374"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/heuristic_floor6_with_theta00.pkl",
+      "sha256": "2d6e4ef5f5589db0b879deb3056ac048f9a9aab61152a0ea46eb5afa4d1871ac"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/heuristic_floor6_with_theta10.pkl",
+      "sha256": "c5066a76d914ecb191466d3a7be67961331e85db2233c655dc08352e24f604e8"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/heuristic_floor6_with_theta20.pkl",
+      "sha256": "2f6d1a0209775c90ddf96346661bad08680701a8bcce63d5c28a93d160f28fde"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/heuristic_floor6_without_theta00.pkl",
+      "sha256": "30bbd311f86d1ea50f013a6761cbb87044d00672f92ebc0497618bf21057d264"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/heuristic_floor6_without_theta10.pkl",
+      "sha256": "ea043141214e8642e5440c83763199c8fa3cae80121086c4c7fa55a34e1a9156"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/heuristic_floor6_without_theta20.pkl",
+      "sha256": "bd441b004389c68de4c90bbbddd1e187441d30bc254fb8180c58873b7d9abe9c"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/solver_floor5_with_theta00.pkl",
+      "sha256": "10d14ec19e51a4e4f48f4819f465d4016ba5193719ab44c7c908f5ae9e5881a4"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/solver_floor5_with_theta10.pkl",
+      "sha256": "3bbbf1037f31426cb61668590c6ae4b4d941cee471b5459633f4373f0c152743"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/solver_floor5_with_theta20.pkl",
+      "sha256": "d599d42bcd5d7be3539280b12bc6595ee9ac1a5873f5600e61d09cf8f42b4955"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/solver_floor5_without_theta00.pkl",
+      "sha256": "d687dc68108b64988cd0652c2fcdb3443f103ce35f4a2a2e083b7f549ca5788b"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/solver_floor5_without_theta10.pkl",
+      "sha256": "1810ee4664f414d78ce0c5fff6deb08ee57690d9879ac6a747dfadd0f4398a36"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/solver_floor5_without_theta20.pkl",
+      "sha256": "f147380af954557f4be94a97eb0f1f8af14edfc90569ea79495fddea1d4fc9d5"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/solver_floor6_with_theta00.pkl",
+      "sha256": "fede7b3ad7ecfa50bfd44d9211c9aef40a9ef87633e457b388ae13cf6624b3a4"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/solver_floor6_with_theta10.pkl",
+      "sha256": "08ada0ee9eb3868ff100070b56611cb3dbf4604d211d3fde6137941d38c23c20"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/solver_floor6_with_theta20.pkl",
+      "sha256": "155575d62619d9276b68add850b75a822b1c3c6a461c72bd6a4cf07b9a17ca57"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/solver_floor6_without_theta00.pkl",
+      "sha256": "1e8f712f30d5063f58345611f83501b813a68dd95413fbcc041c6552a2f7ed7d"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/solver_floor6_without_theta10.pkl",
+      "sha256": "d49f1fd14e24cb5a299946ce8a60295a4f4ec47ee207dd41837ee4f9ed6c5c89"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/runs/solver_floor6_without_theta20.pkl",
+      "sha256": "c310b1c595041c3dfed5d4f32687a764083c183dd21fe61d25c774e081bb16a2"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/data/parameters.csv",
+      "sha256": "62f25214fdf614d2bbbfef5468caeecf656c073fe4701292a1a1dd873be13e12"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/data/pgp_course_demand.csv",
+      "sha256": "bf0de7c990ae5015e8cc3da42838652189ddea72af691e97bc3990cb381dffb8"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/data/pgp_preference_survey.csv",
+      "sha256": "7bb2a248aa87d1c57cf4e737ac483b2cfc1e40138cf8ead73b6cc4f22b3e9c10"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/data/pgp_preference_survey_by_student.csv",
+      "sha256": "782609e303133e6f2e5cc7bd2cad98dc680662e9777b79b0c0e4326dc8c1a338"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/data/same_content_groups.csv",
+      "sha256": "0715b7448b6efdb72ede73d3e7bfea283788b3413a0d8cd14f815d347945c0f0"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/data/sessions.csv",
+      "sha256": "cf21cdd816a91ef57ea8ed606f8a4bef649417b6371dae5e5f079fb721e7d8b8"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/data/units.csv",
+      "sha256": "936a5172d868eae36300ebbbf89cb916454ab2178ae532b26206c376133034b0"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/build_data.py",
+      "sha256": "4893495d8d5b266fd8b74c44efa39de21063e9bbca40435082cbd2d4a0af27f6"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/build_survey.py",
+      "sha256": "9d9b556234c6cce186d16e5f5228bd26764b95087d6793d6fbf8d8e43af1b221"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/allotment_matrices.xlsx",
+      "sha256": "a68a38a54f8e105b9dd9eb463f0a1ef5ebf4836a132db1c80e8b49f00e57f453"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/heuristic_results.xlsx",
+      "sha256": "ffa2cbb30729466cd999dbdff8af7c923679ce2dcf659b51b59477ce3f361896"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_5_to_9_credits/outputs/pgp_office_results_v2.xlsx",
+      "sha256": "1655d8fc4901bddbedc4298e1816f896d121ebe77fb70e5f323212308faa2c71"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/heuristic_floor5_with_theta00.pkl",
+      "sha256": "070fa57a3f756e1e39dd1337b721baf1e0e23bc8a1f7fa5baf9fafebf4c932b9"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/heuristic_floor5_with_theta10.pkl",
+      "sha256": "cd028309b9287a366e0774324927e24cefdb84d8b3c688eb5cf71211cdb63b91"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/heuristic_floor5_with_theta20.pkl",
+      "sha256": "6485d55483fdebdeaa94971cb3e7cc80d46b7b6449ef290aececa9453175661f"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/heuristic_floor5_without_theta00.pkl",
+      "sha256": "0c03df729c831d4b8fc3dad9803c484f23234ab3a50e2aa23ff5fc6d7c7a0b71"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/heuristic_floor5_without_theta10.pkl",
+      "sha256": "7c19d84d9351ffa3b88d950cc430a5a7d858fdf6cb096f9dbdd2d8d987caff92"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/heuristic_floor5_without_theta20.pkl",
+      "sha256": "91f03a450f56ea268c47ddd2e00ace28dc9d60eab10f45cf528316fd903bb530"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/heuristic_floor6_with_theta00.pkl",
+      "sha256": "f69b5c2f802b789d3ac06426ec023af8baa7ed5d5798751b3ac8d503227c0cab"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/heuristic_floor6_with_theta10.pkl",
+      "sha256": "5622e8a24241accd8ae80943ab6aaaca8b7c6478766135fff93e0c17eee16fe3"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/heuristic_floor6_with_theta20.pkl",
+      "sha256": "f8705493f9472b507cd911f9ae78d3a778ae5dcb900b5963a52e32b618ef867f"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/heuristic_floor6_without_theta00.pkl",
+      "sha256": "39fbfc18b3eddfb9ad4428fefaf194e94905381cbdcf0b5bd8d6ae3d10af3ec3"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/heuristic_floor6_without_theta10.pkl",
+      "sha256": "06e0297ec9ea5259a5c129508cca024bf6f570b8e4864d1aead26ae0dffd0e38"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/heuristic_floor6_without_theta20.pkl",
+      "sha256": "8c7c6e005ef75ff3f8b3c8d39d9fdbf3bfb817bd1cc46adaac347e604b6d1ab2"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/solver_floor5_with_theta00.pkl",
+      "sha256": "640d12762612098529fb7106e7bfb2c5c51af16ee1a60d9955c61f8897ba9255"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/solver_floor5_with_theta10.pkl",
+      "sha256": "9c01ad09e4128c245791292a4b920ce81a501acd8feaac302751ccdb1beff91c"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/solver_floor5_with_theta20.pkl",
+      "sha256": "022ab0f3cc2bdee55f305a652768776c35817f16858eebfc195855a9578c112b"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/solver_floor5_without_theta00.pkl",
+      "sha256": "45e06d523a6d5e6b81e75dcd716cd790e8b0a72d6fdff9937b6e0b9c5518ed35"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/solver_floor5_without_theta10.pkl",
+      "sha256": "9c29957d4d03a8d6366049a3036b65acfa771c4fabee3194dcc3b524fe4ba5ce"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/solver_floor5_without_theta20.pkl",
+      "sha256": "beb061998c924cb90ae2deb2e67cdf2f4981db6efc9ca8fd3a1532fba6f9a2c6"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/solver_floor6_with_theta00.pkl",
+      "sha256": "f38acce70fc45f78c808c062baf3141ddbc949a66f7faada9d3b43b8c15895af"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/solver_floor6_with_theta10.pkl",
+      "sha256": "f4b61098542c4c2aa5c29562cf304eea63306e07dde6e88c3e7b18dff194f2a6"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/solver_floor6_with_theta20.pkl",
+      "sha256": "c72f3c78b22e411916a903ac730631b731b4e42ef6977e37efada51d651aacfe"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/solver_floor6_without_theta00.pkl",
+      "sha256": "6dcd27f087b834e177072dfcdf812bbe26310d1545981ca0da68e7abe27bfd43"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/solver_floor6_without_theta10.pkl",
+      "sha256": "0553ef8aea9ff5acd166a2b054bd95bf4e79bf87b7e27644cf5465040207ee5c"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/runs/solver_floor6_without_theta20.pkl",
+      "sha256": "e170c2a9a2f952f94cc19f93a674ad1c805579ed743eafac1a34a5b07c642392"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/data/parameters.csv",
+      "sha256": "f7872e12918d63f46d9462990cb69699b2ab2e65e0dfc51e58b75913a27da091"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/data/pgp_course_demand.csv",
+      "sha256": "e7275377a25be2f091c8d8c32fda79fcfbe328c3e93ecb44459c846764d355e9"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/data/pgp_preference_survey.csv",
+      "sha256": "977c7f17e74ebf4086494f414acf3734ebf4cdc9903adfa846776b1704b00f81"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/data/pgp_preference_survey_by_student.csv",
+      "sha256": "09367019032ceb4faf7fba3cb2d930dd0bbcf99a5e38ff4c5f33a015ade6c67f"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/data/same_content_groups.csv",
+      "sha256": "0715b7448b6efdb72ede73d3e7bfea283788b3413a0d8cd14f815d347945c0f0"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/data/sessions.csv",
+      "sha256": "cf21cdd816a91ef57ea8ed606f8a4bef649417b6371dae5e5f079fb721e7d8b8"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/data/units.csv",
+      "sha256": "936a5172d868eae36300ebbbf89cb916454ab2178ae532b26206c376133034b0"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/build_data.py",
+      "sha256": "a63fd52b9a71b18be07349bfd6a4e631c409e08e4197c517750d27c08779fe0d"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/build_survey.py",
+      "sha256": "1677f825c22fc932e5edf0dd0db132039f085b1f9fe0283c6667171bbc7e6102"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/allotment_matrices.xlsx",
+      "sha256": "1836eb11fba68cdedd678d8d45bca31d5350bac1822aeec59383325bdd4bcac3"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/heuristic_results.xlsx",
+      "sha256": "593bbe9f5ee874a23f19fcd0716bae4247a5b103135f0b63fd9f70132e9f799e"
+    },
+    {
+      "path": "OML_elective_timetabling_master/surveys/survey_9_to_10.5_credits/outputs/pgp_office_results_v2.xlsx",
+      "sha256": "cf3303697af7507f12bb1369d5ef0222e5293ed4fde2c99a2b2e5f186c9bd0bd"
+    },
+    {
+      "path": "solver_rerun/rerun_result.json",
+      "sha256": "326a63b69c451832fd2060bb309bf33c661316def4cbb3f89ebfd84655ef1ef8"
+    }
+  ]
+}

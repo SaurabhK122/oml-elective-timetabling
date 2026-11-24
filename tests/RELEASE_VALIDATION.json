@@ -1,0 +1,42 @@
+{
+  "checked_at": "2026-11-24",
+  "source": "OML_project_update.zip (updated master notebook)",
+  "production_build": "passed",
+  "typescript": "passed",
+  "routing_tests": 1,
+  "lint_errors": 0,
+  "preexisting_lint_warnings": 6,
+  "ui_scenarios_checked": 48,
+  "saved_student_plans_validated": 19968,
+  "known_answer_wasm_tests": 6,
+  "editable_input_solves": 7,
+  "invalid_import_cases": 7,
+  "exhaustive_oracle_cases": 24,
+  "heuristic_python_full_plan_cases": 23,
+  "heuristic_full_cohort_exact_matches": 4,
+  "heuristic_custom_input_regressions": 3,
+  "python_rng_sequences": 4,
+  "browser_worker_vm": "passed: solver, both methods, unlimited time",
+  "history_tests": "passed: retain3, fourth eviction, reload, exact restoration, no recomputation, failure/cancellation retention, quota rollback, concurrent writes, fingerprints",
+  "assumptions": [
+    "BaB retains supplied CSV default of 80 seats.",
+    "Student preferences are synthetic and unranked.",
+    "Replacement dates and times are not assigned.",
+    "Recent run history is local to the browser and app address."
+  ],
+  "hosted_browser_verification": "Pending GitHub sync at this checkpoint.",
+  "asset_sha256": {
+    "public/lab/app.js": "f6d66b631b52ae0286dec62e60ff89e2a381cd6ea11a5697dd00885c39899eb2",
+    "public/lab/data/oml_project.json": "d4860e0ae27808e5169898eb832dcb7f77d96dad159757c6e550151de3c912fc",
+    "public/lab/data/study_provenance.json": "5c7c92c91b7ab2a990dfccc88ce7837275ac95564f189be9e511562f3414a289",
+    "public/lab/data/validation.json": "ca5cf5d7876c955754bb1ee324c45963ccff84076d9b4c74492127f3d6804ea2",
+    "public/lab/downloads/oml_web_bundle.zip": "0ae2ad51e32c4ee0c3da618ca3fa02898b59bb2a8a718484a9f780eb43b20320",
+    "public/lab/index.html": "841eb7498663300863dd6a360c93b8e4db2281a1b03c72aaed003e1a6a772a95",
+    "public/lab/oml-api.js": "f07dae29de9dc83a9e554706cebac9c4ad43d08c087d90ad70ddc05332f85435",
+    "public/lab/oml.worker.js": "fc49455949fca7163bf513de04ea46e819134759da11ea5a8221cfaee2b60176",
+    "public/lab/run-history.js": "350275cd6500a4e31393b180af302f9bd5ab8ba5696a64c05e728a172c3d6f26",
+    "public/lab/solver-assets/HIGHS_LICENSE.txt": "9f8d8dcf27789ac59c0d7c732d6682f148804a5e99d83e9f207d6c1882b98bfa",
+    "public/lab/solver-assets/highs.wasm": "69a85477acde13876c8fe83357959724e795abdfd144af0531f920d41b5f813e",
+    "public/lab/style.css": "2b236c00928571fd190a4b7e81b0e9ccc67077c10739d0410376ff7d5149a61e"
+  }
+}

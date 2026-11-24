@@ -81,14 +81,20 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "OML Elective Timetabling" },
-      { name: "description", content: "Elective Timetabling with Limited Faculty Flexibility" },
-      { name: "author", content: "Lovable" },
-      { property: "og:title", content: "OML Elective Timetabling" },
-      { property: "og:description", content: "Elective Timetabling with Limited Faculty Flexibility" },
+      { title: "OML Timetable Lab" },
+      {
+        name: "description",
+        content:
+          "Explore validated elective-allotment scenarios and run a browser-based integer model using synthetic student preferences.",
+      },
+      { property: "og:title", content: "OML Timetable Lab" },
+      {
+        property: "og:description",
+        content:
+          "Elective timetabling with limited faculty flexibility. An IIM Ahmedabad academic project using synthetic student preferences.",
+      },
       { property: "og:type", content: "website" },
-      { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:card", content: "summary" },
     ],
     links: [
       {

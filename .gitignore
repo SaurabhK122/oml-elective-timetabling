@@ -30,3 +30,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Python notebook validation
+__pycache__/
+*.pyc

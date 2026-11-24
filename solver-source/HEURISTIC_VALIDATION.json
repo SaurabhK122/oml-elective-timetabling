@@ -1,0 +1,58 @@
+{
+  "engine": "oml-master-seven-step-2026-11-24.1",
+  "source": "Updated master notebook, supplied saved plans",
+  "cases": [
+    {
+      "survey": "survey_5_to_9_credits",
+      "theta": 0,
+      "students": 416,
+      "short": 411.5,
+      "credits": 2089.25,
+      "asked": 0,
+      "moves": 0,
+      "seconds": 14.496247231,
+      "rounds": 2000,
+      "allocation_matches_source": true,
+      "moves_match_source": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "theta": 0.2,
+      "students": 416,
+      "short": 279.5,
+      "credits": 2220.5,
+      "asked": 53,
+      "moves": 142,
+      "seconds": 25.942868604000004,
+      "rounds": 1009,
+      "allocation_matches_source": true,
+      "moves_match_source": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "theta": 0,
+      "students": 416,
+      "short": 41,
+      "credits": 2470.75,
+      "asked": 0,
+      "moves": 0,
+      "seconds": 11.155472155000004,
+      "rounds": 2000,
+      "allocation_matches_source": true,
+      "moves_match_source": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "theta": 0.2,
+      "students": 416,
+      "short": 1,
+      "credits": 2557.75,
+      "asked": 20,
+      "moves": 60,
+      "seconds": 3.656421797000003,
+      "rounds": 0,
+      "allocation_matches_source": true,
+      "moves_match_source": true
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "course": "Bitcoins and Bullion",
+  "unit_id": "BaB",
+  "sourceVersion": "Updated master notebook, 24 November 2026",
+  "bundle_sha256": "d4860e0ae27808e5169898eb832dcb7f77d96dad159757c6e550151de3c912fc",
+  "supplied_seat_cap": 80,
+  "supplied_source_label": "default 80 (outline says TBD)",
+  "data_policy": "Preserve the supplied capacity assumption. Change the course input and rerun before interpreting another capacity.",
+  "checked_runs": 48,
+  "maximum_allocated_seats": 57,
+  "all_within_supplied_capacity": true,
+  "runs": [
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor5_with_theta00",
+      "method": "heuristic",
+      "allocated_seats": 31,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor5_with_theta10",
+      "method": "heuristic",
+      "allocated_seats": 37,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor5_with_theta20",
+      "method": "heuristic",
+      "allocated_seats": 38,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor5_without_theta00",
+      "method": "heuristic",
+      "allocated_seats": 34,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor5_without_theta10",
+      "method": "heuristic",
+      "allocated_seats": 37,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor5_without_theta20",
+      "method": "heuristic",
+      "allocated_seats": 39,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor6_with_theta00",
+      "method": "heuristic",
+      "allocated_seats": 35,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor6_with_theta10",
+      "method": "heuristic",
+      "allocated_seats": 39,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor6_with_theta20",
+      "method": "heuristic",
+      "allocated_seats": 40,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor6_without_theta00",
+      "method": "heuristic",
+      "allocated_seats": 33,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor6_without_theta10",
+      "method": "heuristic",
+      "allocated_seats": 39,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor6_without_theta20",
+      "method": "heuristic",
+      "allocated_seats": 42,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor5_with_theta00",
+      "method": "solver",
+      "allocated_seats": 31,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor5_with_theta10",
+      "method": "solver",
+      "allocated_seats": 37,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor5_with_theta20",
+      "method": "solver",
+      "allocated_seats": 32,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor5_without_theta00",
+      "method": "solver",
+      "allocated_seats": 40,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor5_without_theta10",
+      "method": "solver",
+      "allocated_seats": 39,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor5_without_theta20",
+      "method": "solver",
+      "allocated_seats": 40,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor6_with_theta00",
+      "method": "solver",
+      "allocated_seats": 33,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor6_with_theta10",
+      "method": "solver",
+      "allocated_seats": 38,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor6_with_theta20",
+      "method": "solver",
+      "allocated_seats": 38,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor6_without_theta00",
+      "method": "solver",
+      "allocated_seats": 40,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor6_without_theta10",
+      "method": "solver",
+      "allocated_seats": 39,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor6_without_theta20",
+      "method": "solver",
+      "allocated_seats": 39,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor5_with_theta00",
+      "method": "heuristic",
+      "allocated_seats": 39,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor5_with_theta10",
+      "method": "heuristic",
+      "allocated_seats": 39,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor5_with_theta20",
+      "method": "heuristic",
+      "allocated_seats": 38,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor5_without_theta00",
+      "method": "heuristic",
+      "allocated_seats": 37,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor5_without_theta10",
+      "method": "heuristic",
+      "allocated_seats": 44,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor5_without_theta20",
+      "method": "heuristic",
+      "allocated_seats": 45,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor6_with_theta00",
+      "method": "heuristic",
+      "allocated_seats": 42,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor6_with_theta10",
+      "method": "heuristic",
+      "allocated_seats": 50,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor6_with_theta20",
+      "method": "heuristic",
+      "allocated_seats": 45,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor6_without_theta00",
+      "method": "heuristic",
+      "allocated_seats": 47,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor6_without_theta10",
+      "method": "heuristic",
+      "allocated_seats": 47,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor6_without_theta20",
+      "method": "heuristic",
+      "allocated_seats": 53,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor5_with_theta00",
+      "method": "solver",
+      "allocated_seats": 43,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor5_with_theta10",
+      "method": "solver",
+      "allocated_seats": 57,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor5_with_theta20",
+      "method": "solver",
+      "allocated_seats": 47,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor5_without_theta00",
+      "method": "solver",
+      "allocated_seats": 37,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor5_without_theta10",
+      "method": "solver",
+      "allocated_seats": 54,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor5_without_theta20",
+      "method": "solver",
+      "allocated_seats": 32,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor6_with_theta00",
+      "method": "solver",
+      "allocated_seats": 41,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor6_with_theta10",
+      "method": "solver",
+      "allocated_seats": 49,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor6_with_theta20",
+      "method": "solver",
+      "allocated_seats": 49,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor6_without_theta00",
+      "method": "solver",
+      "allocated_seats": 34,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor6_without_theta10",
+      "method": "solver",
+      "allocated_seats": 49,
+      "within_supplied_capacity": true
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor6_without_theta20",
+      "method": "solver",
+      "allocated_seats": 56,
+      "within_supplied_capacity": true
+    }
+  ]
+}

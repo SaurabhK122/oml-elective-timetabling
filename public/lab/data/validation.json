@@ -1,0 +1,361 @@
+{
+  "all_passed": true,
+  "sourceVersion": "Updated master notebook, 24 November 2026",
+  "checked_runs": 48,
+  "checked_student_plans": 19968,
+  "bundle_sha256": "d4860e0ae27808e5169898eb832dcb7f77d96dad159757c6e550151de3c912fc",
+  "checks": [
+    "All 416 synthetic students represented",
+    "Bidding set membership",
+    "No more than one PGPX/FABM course",
+    "Same content at most once",
+    "Maximum 9 credits",
+    "No remaining original-slot clashes",
+    "Course seat caps",
+    "Only movable class sessions move",
+    "Per-unit allowance counts all occupied slots",
+    "Recomputed shortfall and credit totals",
+    "Cached metrics match main workbook summaries",
+    "Heuristic metrics match dedicated workbook",
+    "Solver Step 2 meets Step 1 credit lower limit"
+  ],
+  "supplemental_plan_validated": false,
+  "runs": [
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor5_with_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2429
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor5_with_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2511
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor5_with_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2545
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor5_without_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2220
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor5_without_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2333
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor5_without_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2403
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor6_with_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2446
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor6_with_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2553
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor6_with_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2600
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor6_without_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2224
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor6_without_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2345
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "heuristic_floor6_without_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2412
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor5_with_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2462
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor5_with_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2544
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor5_with_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2467
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor5_without_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2246
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor5_without_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2357
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor5_without_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2449
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor6_with_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2476
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor6_with_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2607
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor6_with_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2723
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor6_without_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2261
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor6_without_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2392
+    },
+    {
+      "survey": "survey_5_to_9_credits",
+      "run": "solver_floor6_without_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2508
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor5_with_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2854
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor5_with_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2878
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor5_with_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2881
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor5_without_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2663
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor5_without_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2712
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor5_without_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2720
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor6_with_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2905
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor6_with_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2982
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor6_with_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 3002
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor6_without_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2698
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor6_without_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2798
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "heuristic_floor6_without_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2884
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor5_with_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2943
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor5_with_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2963
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor5_with_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 3014
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor5_without_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2721
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor5_without_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2772
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor5_without_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2485
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor6_with_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2935
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor6_with_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 3011
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor6_with_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 3058
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor6_without_theta00",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2728
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor6_without_theta10",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2850
+    },
+    {
+      "survey": "survey_9_to_10.5_credits",
+      "run": "solver_floor6_without_theta20",
+      "passed": true,
+      "students_checked": 416,
+      "assignment_count": 2918
+    }
+  ]
+}
